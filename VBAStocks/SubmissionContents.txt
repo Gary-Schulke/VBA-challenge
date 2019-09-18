@@ -1,0 +1,11 @@
+File:	Multiple_year_stock_data.xlsm
+	Completed Excel file with code in Module1
+
+File:	Multiple_year_stock_data.bas
+	Exported code Module1
+
+File:	ResultsFromSheet_2014.png
+	ResultsFromSheet_2015.png
+	ResultsFromSheet_2015.png
+
+	Screen captures of calculated results.
